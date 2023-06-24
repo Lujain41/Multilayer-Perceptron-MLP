@@ -22,3 +22,15 @@ pip isntall sklearn
 
 ## usage 
 To train the MLP on labeled dataset .
+
+## Demo
+
+<img width="650" alt="Screen Shot 1444-12-06 at 5 01 21 PM" src="https://github.com/Lujain41/Multilayer-Perceptron-MLP/assets/90094489/8f7275ad-bc48-413d-a1d6-505805ecdb83">
+
+<img width="650" alt="Screen Shot 1444-12-06 at 5 02 14 PM" src="https://github.com/Lujain41/Multilayer-Perceptron-MLP/assets/90094489/5a5f7b08-c03c-4198-9f2a-c3ded1019b33">
+
+<img width="650" alt="Screen Shot 1444-12-06 at 5 02 47 PM" src="https://github.com/Lujain41/Multilayer-Perceptron-MLP/assets/90094489/0db2f198-82e3-4149-b69a-0de2fd52c87f">
+
+<img width="650" alt="Screen Shot 1444-12-06 at 5 03 46 PM" src="https://github.com/Lujain41/Multilayer-Perceptron-MLP/assets/90094489/881a63df-874f-4a07-8284-fa5536370878">
+
+
